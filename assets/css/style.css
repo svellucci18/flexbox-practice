@@ -5,11 +5,10 @@ body {
   
   }
 
-main {
+/* main {
   display: flex;
-  flex: 1 1 0;
 
-}
+} */
   
 .product img{
   display: flex;
@@ -21,7 +20,7 @@ main {
   width: 100px;
   height: 100px;
   object-fit: cover;
-  margin: auto; */
+  margin: auto;
   /* put images next to eachother */
   float: left;
 
